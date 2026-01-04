@@ -1,0 +1,20 @@
+.searchBarWrapper {
+    flex: 1.5;
+    border: solid 1px #5e5e5e;
+    border-radius: 8px;
+    background-color: #242424;
+    color: #ffffff;
+    height: 42px;
+}
+
+.searchBarInput {
+    height: 100%;
+    flex:7;
+    padding: 0 5px;
+    border-right: 1px solid #5e5e5e;
+}
+
+.searchBarIcon {
+    flex: 1;
+    cursor: pointer;
+}

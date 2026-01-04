@@ -1,0 +1,41 @@
+.header {
+    background-color: black;
+}
+
+.headerInner {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0 auto;
+    height: 80px;
+}
+
+.headerFlex {
+    gap: 20px;
+    height: 100%
+}
+
+.headerLogo {
+    color: white;
+    font-size: 30px;
+    flex: 0.7;
+}
+
+/*カード追加ボタンと人アイコンを囲む親要素*/
+.headerActionsWrapper {
+    flex: 0.7;
+    gap: 30px;
+}
+
+.headerAddCardButton {
+    background-color: rgb(43, 100, 255);
+    flex: 1.5;
+    height: 42px;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.headerUserButton {
+    color: white;
+    cursor: pointer;
+}
