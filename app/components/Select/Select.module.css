@@ -1,0 +1,17 @@
+.selectWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.select {
+    width: 200px;
+    height: 45px;
+    border: solid 1px #333;
+    border-radius: 10px;
+    background-color: #161616;
+}
+
+.option {
+    background-color: #161616;
+}

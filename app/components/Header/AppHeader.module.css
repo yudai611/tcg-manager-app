@@ -1,5 +1,6 @@
 .header {
     background-color: black;
+    border-bottom: solid 1px #333;
 }
 
 .headerInner {

@@ -1,0 +1,22 @@
+.statsCard {
+    border: solid 1px #333;
+    border-radius: 12px;
+    flex: 1;
+    padding: 15px;
+    background-color: #161616;
+}
+
+.statsCardTitle {
+    color: #aaa;
+    font-size: 16px;
+}
+
+.statsCardTotal {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.statsCardDiff {
+    color: #ff0000;
+}
+
